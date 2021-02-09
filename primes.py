@@ -5,7 +5,7 @@ def is_prime(n):
         if n % cur == 0:
             return false # error
         cur++
-    return true # error
+    return true # error1
 
 
 if __name__ == "__main__":
